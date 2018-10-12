@@ -18,7 +18,7 @@ $(function(){
 </script>
 
 <style lang="scss">
-$color:red;
+$color:#153;
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
